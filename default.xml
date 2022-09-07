@@ -18,6 +18,6 @@
   <project path="private/msm-google-modules/touch/fts" name="kernel/msm-modules/fts_touch" remote="aosp" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" revision="android11-release" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" revision="android11-release" clone-depth="1" remote="aosp" />
-  <project path="prebuilts-master/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" revision="f71cc7fa68ac644595257d6fdebc2e543cb7041c" clone-depth="1" groups="partner" remote="aosp" />
+  <project path="prebuilts-master/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" revision="android12-release" clone-depth="1" groups="partner" remote="aosp" />
   <project path="prebuilts-master/misc" name="platform/prebuilts/misc" revision="android11-release" clone-depth="1" remote="aosp" />
 </manifest>
