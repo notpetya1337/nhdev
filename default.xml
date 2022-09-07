@@ -7,7 +7,7 @@
   <default revision="android-msm-coral-4.14-android11" remote="aosp" sync-j="4" />
   
   <project path="build" name="kernel/build" revision="f4f2d2f0665c6031f67d8c84ff98b7d22d5abac1" />
-  <project path="private/msm-google" name="android_kernel_google_msm-4.14" remote="lineage" revision="refs/heads/lineage-19.1" >
+  <project path="private/msm-google" name="android_kernel_google_msm-4.14" remote="lineage" revision="lineage-19.1" >
     <linkfile src="build.config.no-cfi" dest="build.config" />
   </project>
   <project path="private/msm-google/techpack/audio" name="kernel/msm-extra" remote="aosp" />
